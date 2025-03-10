@@ -16,8 +16,8 @@ This example demonstrates how to use the Shotstack Studio SDK with a React appli
 Clone the repository and navigate to the React example directory.
 
 ```bash
-git clone https://github.com/yourusername/shotstack-studio-sdk-demos.git
-cd shotstack-studio-sdk-demos/demos/react
+git clone https://github.com/shotstack-sdk-demo.git
+cd shotstack-sdk-demo
 ```
 
 Install the necessary dependencies:
